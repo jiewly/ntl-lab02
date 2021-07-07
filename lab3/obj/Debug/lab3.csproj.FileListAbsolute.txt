@@ -1,0 +1,7 @@
+D:\CFJIEW\lab3\lab3\bin\Debug\lab3.exe.config
+D:\CFJIEW\lab3\lab3\bin\Debug\lab3.exe
+D:\CFJIEW\lab3\lab3\bin\Debug\lab3.pdb
+D:\CFJIEW\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+D:\CFJIEW\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\CFJIEW\lab3\lab3\obj\Debug\lab3.exe
+D:\CFJIEW\lab3\lab3\obj\Debug\lab3.pdb
